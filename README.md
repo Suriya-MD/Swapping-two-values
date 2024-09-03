@@ -1,4 +1,4 @@
-## DATE: 24-08-2024
+## DATE: 
 # Ex-01 Swapping-two-values
 ## AIM:
 To write a python program for swapping of two values
